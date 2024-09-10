@@ -20,38 +20,38 @@ This program designed to parse the notification title and assign them to the val
 
 1. **Clone the repository**
 
-```bash
-git clone https://github.com/Theara123422/NotificationParser.git
+	```bash
+	git clone https://github.com/Theara123422/NotificationParser.git
 
 2. **Navigate to the project directory**
 
-```bash
-cd NotificationParser
+	```bash
+	cd NotificationParser
 
 3. **Restore Dependencies**
 
-```bash
-dotnet restore
+	```bash
+	dotnet restore
 
 4. **Build the app**
 
-```bash
-dotnet build
+	```bash
+	dotnet build
 
 ## Usage
 
-	1. **Run the application (by CLI or open in text editor or IDE)**
+1. **Run the application (by CLI or open in text editor or IDE)**
 
 	```bash
 	dotnet run
 
-	2. **Example Output**
+2. **Example Output**
 
-		First look when you run the application , you will prompt to input the channel name one by one and message about notification. Here is an example output : 
+	First look when you run the application , you will prompt to input the channel name one by one and message about notification. Here is an example output : 
 
-	 - [Image](ExampleOutput.png)
+	- [Image](ExampleOutput.png)
 
 ## Contact
-Name : Pen Theara
-Email : theara6574@gmail.com
+- **Name**: Pen Theara
+- **Email** : theara6574@gmail.com
 
